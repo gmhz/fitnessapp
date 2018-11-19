@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FitnessApp</string>
+    <string name="all_ex_count_x_num">Всего %s</string>
+    <string name="you_finished_program">Вы закончили тренировку</string>
 </resources>
